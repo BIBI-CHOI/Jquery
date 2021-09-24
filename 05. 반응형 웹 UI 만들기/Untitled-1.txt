@@ -1,0 +1,13 @@
+$("#div").delay(30).animate({
+    marginLeft : "30px"
+}).animate({
+    fontSize : "20px"
+});
+
+
+
+fontSize : "20px"
+marginLeft : "30px"
+
+stop();
+stop(true, ture);
